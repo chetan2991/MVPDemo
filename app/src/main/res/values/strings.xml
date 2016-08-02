@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="user_name_empty_error_message">User Name Is Empty</string>
+    <string name="password_empty_error_message">Password Is Empty</string>
+    <string name="welcome_login_sucess">Welcome Login Sucess</string>
+    <string name="invalide_login_error_message">Invalid Username Or Password</string>
+</resources>
